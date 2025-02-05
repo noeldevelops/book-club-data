@@ -1,0 +1,5 @@
+# Ignore service account files
+rubber-ducks-book-club-d1ff42f7cbd8.json
+
+# Ignore node_modules directory
+node_modules/
